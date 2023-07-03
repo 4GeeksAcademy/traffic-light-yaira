@@ -60,3 +60,10 @@
 .shine {
     box-shadow: 0 0 30px rgb(234, 236, 235);;
 }
+
+.btn {
+    background-color: blue;
+    color: white;
+    border-radius: 25%;
+}
+
